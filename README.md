@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="_data/images/findmentor-logo.png">
-		<img alt="logo-preview" src="_data/images/findmentor-logo.png" width="800">
+		<img alt="logo-preview" src="_data/images/findmentor-logo.png" width="400">
 	</a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 	<a href="_data/images/logo.png">
-		<img alt="logo-preview" src="_data/images/logo.png" width="800">
+		<img alt="logo-preview" src="_data/images/logo.png" width="350">
 	</a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
 	<a href="_data/images/logo.svg">
-		<img alt="logo-preview" src="_data/images/logo.svg" width="800">
+		<img alt="logo-preview" src="_data/images/logo.svg" width="350">
 	</a>
 </p>
 
@@ -28,6 +28,6 @@
 
 <p align="center">
 	<a href="findmentor-twitter-banner.png">
-		<img alt="logo-preview" src="_data/images/findmentor-twitter-banner.png" width="800">
+		<img alt="logo-preview" src="_data/images/findmentor-twitter-banner.png" width="600">
 	</a>
 </p>
