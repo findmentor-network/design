@@ -31,3 +31,12 @@
 		<img alt="logo-preview" src="_data/images/findmentor-twitter-banner.png" width="600">
 	</a>
 </p>
+
+## [`Findmentor Youtube Thumbnail`](findmentor-twitter-banner.png)
+> [**Figma Link**](https://www.figma.com/file/hz4mUVmbTpcCrnafzEXqN7/findmentor-network-youtube?node-id=0%3A1) 
+> 
+<p align="center">
+	<a href="youtube-thumbnail.jpg">
+		<img alt="logo-preview" src="_data/images/youtube-thumbnail.jpg" width="100%">
+	</a>
+</p>
